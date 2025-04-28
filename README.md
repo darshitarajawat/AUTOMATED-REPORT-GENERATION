@@ -33,4 +33,6 @@ MENTOR : NEELA SANTOSH
  
 The main goal of this task is to strenthen skills in data handling, file management, data visualization and report automation which plays a crucial role in today's world like business intelligence and software development. Additionally you will gain experience working with real-world libraries like Pandas and ReportLab, which are widely used across the tech industry.
 
+#OUTPUT: ![Image](https://github.com/user-attachments/assets/b83b18a3-8dee-42de-81c8-61dbc1e640f2)
+
 ##
